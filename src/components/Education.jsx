@@ -4,7 +4,7 @@ const Education = () => {
   const educationData = [
     {
       date: '2025 - Present',
-      title: 'Bachelor of Engineering (B.E.)',
+      title: 'Bachelor of Technology (B.Tech)',
       subtitle: 'Information Technology',
       organization: 'D Y Patil College of Engineering Akurdi, Pune',
       icon: (
